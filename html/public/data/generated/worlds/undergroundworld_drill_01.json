@@ -1,0 +1,23 @@
+{
+  "contentHash": "15a023ee976ecdd41ba925a3cd816829c264f510c0801d7074a1fc323c64c4e0",
+  "gameVersion": "1.0.0",
+  "generatedFrom": [
+    "Survival/Terrain/Worlds/undergroundworld_drill_01.world"
+  ],
+  "schemaVersion": 1,
+  "world": {
+    "bounds": {
+      "maxX": 0,
+      "maxY": 0,
+      "minX": -1,
+      "minY": -1
+    },
+    "cells": [],
+    "connections": [],
+    "gameVersion": "1.0.0",
+    "id": "undergroundworld_drill_01",
+    "locations": [],
+    "source": "fixed-region"
+  },
+  "zonePortals": []
+}

@@ -1,0 +1,40 @@
+{
+  "name": "scrap-mechanic-1-map",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "lint": "tsc --noEmit",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "test:e2e:save-import": "playwright test --config playwright.save-import.config.ts",
+    "data:inventory": "tsx tools/game-data/cli.ts inventory",
+    "data:build": "tsx tools/game-data/cli.ts build",
+    "data:verify": "tsx tools/game-data/cli.ts verify",
+    "data:legacy": "tsx tools/game-data/cli.ts legacy",
+    "data:atlas": "tsx tools/game-data/cli.ts atlas",
+    "data:authentic-map": "tsx tools/authentic-map/cli.ts",
+    "data:reference-extract": "tsx tools/reference-extraction/cli.ts",
+    "release:audit": "tsx tools/release/release-audit.ts",
+    "release:check": "npm run build && npm run release:audit"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "lz4js": "^0.2.0",
+    "sql.js": "^1.13.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/leaflet": "^1.9.20",
+    "@types/node": "^22.15.3",
+    "jsdom": "^26.1.0",
+    "sharp": "^0.35.3",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3",
+    "vite": "^7.0.0",
+    "vitest": "^3.2.4"
+  }
+}

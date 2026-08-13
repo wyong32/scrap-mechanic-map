@@ -1,0 +1,24 @@
+:root {
+  --metal-950: #080c0d;
+  --metal-900: #11191b;
+  --metal-700: #344246;
+  --metal-500: #607176;
+  --metal-300: #a6b1b3;
+  --safety-orange: #ff7a1a;
+  --safety-orange-soft: #ffb36f;
+  --text-primary: #f2f4f1;
+  --text-muted: #a9b2b1;
+  --focus-ring: #ffd166;
+  --panel-border: rgb(255 255 255 / 14%);
+  --panel-shadow: 0 18px 60px rgb(0 0 0 / 45%);
+  --topbar-height: 84px;
+  color: var(--text-primary);
+  background: var(--metal-950);
+  font-family:
+    "Segoe UI",
+    "Microsoft YaHei",
+    system-ui,
+    sans-serif;
+  font-synthesis: none;
+  color-scheme: dark;
+}

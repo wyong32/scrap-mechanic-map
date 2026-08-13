@@ -1,0 +1,23 @@
+{
+  "contentHash": "56df2737f95830a2a71c15d7e8a5d96634299a846547476d7960ff783e78f205",
+  "gameVersion": "1.0.0",
+  "generatedFrom": [
+    "Survival/Terrain/Worlds/undergroundworld_onboarding.world"
+  ],
+  "schemaVersion": 1,
+  "world": {
+    "bounds": {
+      "maxX": 0,
+      "maxY": 0,
+      "minX": -1,
+      "minY": -1
+    },
+    "cells": [],
+    "connections": [],
+    "gameVersion": "1.0.0",
+    "id": "undergroundworld_onboarding",
+    "locations": [],
+    "source": "fixed-region"
+  },
+  "zonePortals": []
+}

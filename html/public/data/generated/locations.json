@@ -1,0 +1,418 @@
+{
+  "contentHash": "47d09083df406b182223058efd9f9b0046e939e6d414d3ba6e6ac4b4aaeb8e1f",
+  "gameVersion": "1.0.0",
+  "generatedFrom": [
+    "html/tools/game-data/location-catalog.ts"
+  ],
+  "locations": [
+    {
+      "bounds": {
+        "maxX": -32,
+        "maxY": -36,
+        "minX": -40,
+        "minY": -44
+      },
+      "category": "poi",
+      "enemyIds": [],
+      "id": "mechanic-station",
+      "name": "Mechanic Station",
+      "position": {
+        "x": -36,
+        "y": -40
+      },
+      "precision": "area-reference",
+      "questIds": [],
+      "regionId": "surface",
+      "relatedRegionIds": [],
+      "resourceIds": []
+    },
+    {
+      "bounds": {
+        "maxX": 15,
+        "maxY": 15,
+        "minX": -16,
+        "minY": -16
+      },
+      "category": "quest",
+      "enemyIds": [],
+      "id": "excavation-island",
+      "name": "Excavation Island Entrance",
+      "position": {
+        "x": -0.5,
+        "y": -0.5
+      },
+      "precision": "area-reference",
+      "questIds": [
+        "excavation"
+      ],
+      "regionId": "excavation-island",
+      "relatedRegionIds": [
+        "surface"
+      ],
+      "resourceIds": []
+    },
+    {
+      "bounds": {
+        "maxX": 7,
+        "maxY": 7,
+        "minX": -8,
+        "minY": -8
+      },
+      "category": "quest",
+      "enemyIds": [],
+      "id": "grow-lab-1",
+      "name": "Grow Lab 1",
+      "position": {
+        "x": -0.5,
+        "y": -0.5
+      },
+      "precision": "area-reference",
+      "questIds": [
+        "grow-lab-1"
+      ],
+      "regionId": "grow-lab-1",
+      "relatedRegionIds": [],
+      "resourceIds": []
+    },
+    {
+      "bounds": {
+        "maxX": 3,
+        "maxY": 3,
+        "minX": -4,
+        "minY": -4
+      },
+      "category": "quest",
+      "enemyIds": [],
+      "id": "grow-lab-2",
+      "name": "Grow Lab 2",
+      "position": {
+        "x": -0.5,
+        "y": -0.5
+      },
+      "precision": "area-reference",
+      "questIds": [
+        "grow-lab-2"
+      ],
+      "regionId": "grow-lab-2",
+      "relatedRegionIds": [],
+      "resourceIds": []
+    },
+    {
+      "bounds": {
+        "maxX": 7,
+        "maxY": 7,
+        "minX": -8,
+        "minY": -8
+      },
+      "category": "quest",
+      "enemyIds": [],
+      "id": "grow-lab-3",
+      "name": "Grow Lab 3",
+      "position": {
+        "x": -0.5,
+        "y": -0.5
+      },
+      "precision": "area-reference",
+      "questIds": [
+        "grow-lab-3"
+      ],
+      "regionId": "grow-lab-3",
+      "relatedRegionIds": [],
+      "resourceIds": []
+    },
+    {
+      "bounds": {
+        "maxX": 9,
+        "maxY": 9,
+        "minX": -10,
+        "minY": -10
+      },
+      "category": "quest",
+      "enemyIds": [],
+      "id": "grow-lab-4",
+      "name": "Grow Lab 4",
+      "position": {
+        "x": -0.5,
+        "y": -0.5
+      },
+      "precision": "area-reference",
+      "questIds": [
+        "grow-lab-4"
+      ],
+      "regionId": "grow-lab-4",
+      "relatedRegionIds": [],
+      "resourceIds": []
+    },
+    {
+      "bounds": {
+        "maxX": 7,
+        "maxY": 7,
+        "minX": -8,
+        "minY": -8
+      },
+      "category": "quest",
+      "enemyIds": [],
+      "id": "grow-lab-5",
+      "name": "Grow Lab 5",
+      "position": {
+        "x": -0.5,
+        "y": -0.5
+      },
+      "precision": "area-reference",
+      "questIds": [
+        "grow-lab-5"
+      ],
+      "regionId": "grow-lab-5",
+      "relatedRegionIds": [],
+      "resourceIds": []
+    },
+    {
+      "bounds": {
+        "maxX": 3,
+        "maxY": 3,
+        "minX": -4,
+        "minY": -4
+      },
+      "category": "quest",
+      "enemyIds": [],
+      "id": "grow-lab-6",
+      "name": "Grow Lab 6",
+      "position": {
+        "x": -0.5,
+        "y": -0.5
+      },
+      "precision": "area-reference",
+      "questIds": [
+        "grow-lab-6"
+      ],
+      "regionId": "grow-lab-6",
+      "relatedRegionIds": [],
+      "resourceIds": []
+    },
+    {
+      "bounds": {
+        "maxX": 3,
+        "maxY": 3,
+        "minX": -4,
+        "minY": -4
+      },
+      "category": "quest",
+      "enemyIds": [],
+      "id": "grow-lab-7",
+      "name": "Grow Lab 7",
+      "position": {
+        "x": -0.5,
+        "y": -0.5
+      },
+      "precision": "area-reference",
+      "questIds": [
+        "grow-lab-7"
+      ],
+      "regionId": "grow-lab-7",
+      "relatedRegionIds": [],
+      "resourceIds": []
+    },
+    {
+      "bounds": {
+        "maxX": 15,
+        "maxY": 15,
+        "minX": -16,
+        "minY": -16
+      },
+      "category": "poi",
+      "enemyIds": [],
+      "id": "mining-hub",
+      "name": "Mining Hub",
+      "position": {
+        "x": -0.5,
+        "y": -0.5
+      },
+      "precision": "area-reference",
+      "questIds": [],
+      "regionId": "mining-hub",
+      "relatedRegionIds": [],
+      "resourceIds": [
+        "ore"
+      ]
+    },
+    {
+      "bounds": {
+        "maxX": 11,
+        "maxY": 11,
+        "minX": -12,
+        "minY": -12
+      },
+      "category": "poi",
+      "enemyIds": [
+        "farmbot"
+      ],
+      "id": "scrapyard",
+      "name": "Scrapyard",
+      "position": {
+        "x": -0.5,
+        "y": -0.5
+      },
+      "precision": "area-reference",
+      "questIds": [],
+      "regionId": "scrapyard",
+      "relatedRegionIds": [],
+      "resourceIds": []
+    },
+    {
+      "bounds": {
+        "maxX": 9,
+        "maxY": 9,
+        "minX": -10,
+        "minY": -10
+      },
+      "category": "poi",
+      "enemyIds": [],
+      "id": "underground-station-1",
+      "name": "Underground Station 1",
+      "position": {
+        "x": -0.5,
+        "y": -0.5
+      },
+      "precision": "area-reference",
+      "questIds": [],
+      "regionId": "underground-station-1",
+      "relatedRegionIds": [],
+      "resourceIds": []
+    },
+    {
+      "bounds": {
+        "maxX": 9,
+        "maxY": 9,
+        "minX": -10,
+        "minY": -10
+      },
+      "category": "poi",
+      "enemyIds": [],
+      "id": "underground-station-2",
+      "name": "Underground Station 2",
+      "position": {
+        "x": -0.5,
+        "y": -0.5
+      },
+      "precision": "area-reference",
+      "questIds": [],
+      "regionId": "underground-station-2",
+      "relatedRegionIds": [],
+      "resourceIds": []
+    },
+    {
+      "bounds": {
+        "maxX": 31,
+        "maxY": 31,
+        "minX": -32,
+        "minY": -32
+      },
+      "category": "boss",
+      "enemyIds": [
+        "final-boss"
+      ],
+      "id": "final-boss-hall",
+      "name": "Final Boss Hall",
+      "position": {
+        "x": -0.5,
+        "y": -0.5
+      },
+      "precision": "area-reference",
+      "questIds": [],
+      "regionId": "final-boss-hall",
+      "relatedRegionIds": [],
+      "resourceIds": []
+    },
+    {
+      "bounds": {
+        "maxX": 7,
+        "maxY": 7,
+        "minX": -8,
+        "minY": -8
+      },
+      "category": "boss",
+      "enemyIds": [
+        "trashbot"
+      ],
+      "id": "trashbot-boss",
+      "name": "Trashbot Boss Area",
+      "position": {
+        "x": -0.5,
+        "y": -0.5
+      },
+      "precision": "area-reference",
+      "questIds": [],
+      "regionId": "trashbot-boss",
+      "relatedRegionIds": [],
+      "resourceIds": []
+    },
+    {
+      "bounds": {
+        "maxX": 0,
+        "maxY": 0,
+        "minX": -1,
+        "minY": -1
+      },
+      "category": "resource",
+      "enemyIds": [],
+      "id": "drilling-area-1",
+      "name": "Drilling Area 1",
+      "position": {
+        "x": -0.5,
+        "y": -0.5
+      },
+      "precision": "area-reference",
+      "questIds": [],
+      "regionId": "drilling-area-1",
+      "relatedRegionIds": [],
+      "resourceIds": [
+        "drill"
+      ]
+    },
+    {
+      "bounds": {
+        "maxX": 0,
+        "maxY": 0,
+        "minX": -1,
+        "minY": -1
+      },
+      "category": "resource",
+      "enemyIds": [],
+      "id": "drilling-area-2",
+      "name": "Drilling Area 2",
+      "position": {
+        "x": -0.5,
+        "y": -0.5
+      },
+      "precision": "area-reference",
+      "questIds": [],
+      "regionId": "drilling-area-2",
+      "relatedRegionIds": [],
+      "resourceIds": [
+        "drill"
+      ]
+    },
+    {
+      "bounds": {
+        "maxX": 0,
+        "maxY": 0,
+        "minX": -1,
+        "minY": -1
+      },
+      "category": "guide",
+      "enemyIds": [],
+      "id": "underground-guidance",
+      "name": "Underground Guidance Area",
+      "position": {
+        "x": -0.5,
+        "y": -0.5
+      },
+      "precision": "area-reference",
+      "questIds": [],
+      "regionId": "underground-guidance",
+      "relatedRegionIds": [],
+      "resourceIds": []
+    }
+  ],
+  "schemaVersion": 1
+}

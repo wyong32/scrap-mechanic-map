@@ -1,0 +1,52 @@
+html/node_modules
+html/dist/
+html/dist-save-import/
+html/test-results/
+html/img/*
+scale.txt
+testmakemap.ahk
+g_celldata.json
+g_celldata0.json
+.worktrees/
+
+# Local dependencies and build/test output
+node_modules/
+html/node_modules/
+dist/
+html/dist/
+dist-save-import/
+test-results/
+html/test-results/
+playwright-report/
+html/playwright-report/
+
+# Local game/editor copies and runtime capture workspaces
+tileeditor-working-copy/
+**/tileeditor-working-copy/
+TileEditor/
+**/TileEditor/
+runtime-captures/
+runtime-user-data/
+offline-render-work/
+browser-data/
+browser-probe/
+probe-output/
+
+# Local-only legacy screenshots retained for capture and migration tools
+html/local-assets/legacy/
+html/local-assets/official-orthographic/
+html/local-assets/reference-extraction/
+html/local-assets/default-save.db
+
+# Local diagnostics, caches, and raw editable capture sources
+*.log
+*.cache
+.cache/
+**/.cache/
+*.pdn
+*.psd
+*.kra
+*.xcf
+*.bmp
+*.tga
+*.exr

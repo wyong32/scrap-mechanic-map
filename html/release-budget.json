@@ -1,0 +1,9 @@
+{
+  "maxTrackedBytes": 157286400,
+  "maxOutputBytes": 209715200,
+  "maxOutputFiles": 1000,
+  "maxSingleFileBytes": 26214400,
+  "maxInitialAssetBytes": 26214400,
+  "maxCompressedCodeBytes": 1048576,
+  "initialPublicAssets": ["assets/reference-surface-1.0.webp"]
+}

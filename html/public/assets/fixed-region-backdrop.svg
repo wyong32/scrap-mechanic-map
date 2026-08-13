@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" preserveAspectRatio="none">
+  <defs>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M60 0H0V60" fill="none" stroke="#80a19a" stroke-opacity=".22" stroke-width="2"/>
+      <circle cx="3" cy="3" r="2.5" fill="#f6b93b" fill-opacity=".5"/>
+    </pattern>
+    <pattern id="hazard" width="72" height="72" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="36" height="72" fill="#f5b93f" fill-opacity=".34"/>
+    </pattern>
+    <linearGradient id="floor" x2="0" y2="1">
+      <stop stop-color="#122c2b"/>
+      <stop offset="1" stop-color="#0a1718"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="900" fill="url(#floor)"/>
+  <rect width="1200" height="900" fill="url(#grid)"/>
+  <path d="M34 34H1166V866H34Z" fill="none" stroke="#f5bd47" stroke-width="15"/>
+  <path d="M58 58H1142V842H58Z" fill="none" stroke="#5e817a" stroke-width="4"/>
+  <g fill="#173936" stroke="#9abbb4" stroke-width="7">
+    <path d="M105 125H420V350H105Z"/>
+    <path d="M780 125H1095V350H780Z"/>
+    <path d="M105 550H420V775H105Z"/>
+    <path d="M780 550H1095V775H780Z"/>
+    <path d="M485 310H715V590H485Z"/>
+  </g>
+  <g fill="url(#hazard)" stroke="#f4bd49" stroke-width="9">
+    <path d="M420 210H510V265H420Z"/>
+    <path d="M690 210H780V265H690Z"/>
+    <path d="M420 635H510V690H420Z"/>
+    <path d="M690 635H780V690H690Z"/>
+  </g>
+  <g fill="none" stroke="#6bbeb2" stroke-width="18" stroke-linecap="round">
+    <path d="M600 105V310"/>
+    <path d="M600 590V795"/>
+    <path d="M420 237H780"/>
+    <path d="M420 662H780"/>
+  </g>
+  <g fill="#0b1819" stroke="#d8e3df" stroke-width="5">
+    <circle cx="600" cy="450" r="78"/>
+    <circle cx="262" cy="237" r="47"/>
+    <circle cx="938" cy="237" r="47"/>
+    <circle cx="262" cy="662" r="47"/>
+    <circle cx="938" cy="662" r="47"/>
+  </g>
+  <g fill="#f6bf4a" filter="url(#glow)">
+    <circle cx="600" cy="450" r="20"/>
+    <circle cx="262" cy="237" r="13"/>
+    <circle cx="938" cy="237" r="13"/>
+    <circle cx="262" cy="662" r="13"/>
+    <circle cx="938" cy="662" r="13"/>
+  </g>
+  <g fill="#c9d9d5" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">
+    <text x="600" y="84" font-size="34" letter-spacing="8">SCRAP MECHANIC 1.0</text>
+    <text x="600" y="456" font-size="31" letter-spacing="5">FIXED AREA</text>
+    <text x="600" y="500" font-size="21" fill="#f6bf4a" letter-spacing="4">FIXED REGION REFERENCE BACKDROP</text>
+  </g>
+</svg>

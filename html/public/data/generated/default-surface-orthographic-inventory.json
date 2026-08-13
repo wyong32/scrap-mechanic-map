@@ -1,0 +1,828 @@
+{
+  "contentHash": "ded8262946fc334efae1c3e2bb1c4a6b9bfa0765e7ce6e2b9ba1790d75043955",
+  "gameVersion": "1.0.0",
+  "pixelsPerCell": 256,
+  "saveSeed": 360160198,
+  "saveSha256": "e6f85a908f529fb373ec6a64f85113da024a99edbd3b8eef7d87d938f6d76278",
+  "schemaVersion": 1,
+  "targets": [
+    {
+      "heightCells": 1,
+      "occurrences": 6,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "f935db7008b98246aac7a1f979261e342f38dcc83d11dbc591dc692607871fab",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/ChemicalPlant_Road_64_01.tile",
+      "usedRotations": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "uuid": "013e980d-2425-4275-9c4b-c0eee0dba7f1",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 8,
+      "occurrences": 64,
+      "outputPixels": {
+        "height": 2048,
+        "width": 2048
+      },
+      "sourcePreviewSha256": "df87c06e2e79b4327ec5a27cbad26bd641c909c4389a9395850185995204c9e1",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/Minidungeon_OverworldEntrance_Chemical_512_01.tile",
+      "usedRotations": [
+        2
+      ],
+      "uuid": "08f0037b-9233-4fe8-b7e1-c1a0c4a2913b",
+      "widthCells": 8
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 6,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "524f00bba98489eb14e3e5321f22b76b9208465496c1f27dd83d61ab24d1b037",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/SchematicStation_64_01.tile",
+      "usedRotations": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "uuid": "2908dd45-9767-4c9a-aa00-871a3a0b04b5",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 2,
+      "occurrences": 4,
+      "outputPixels": {
+        "height": 512,
+        "width": 512
+      },
+      "sourcePreviewSha256": "fc86fbd0470f228d0b42e87479a68dc0d37157a6a0894e8e75e906a7d92d0bc5",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/MechanicStation_128_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "2c36976b-e008-408c-a5b5-1baaaf01df04",
+      "widthCells": 2
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 4,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "98d126080d2064daff46597daff5c565491c739a4642f8c03229c1519f341d0f",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/Ruin_Field_64_02.tile",
+      "usedRotations": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "uuid": "2fc07dd0-482c-4eb5-86a0-2d48ba50fad3",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 2,
+      "occurrences": 4,
+      "outputPixels": {
+        "height": 512,
+        "width": 512
+      },
+      "sourcePreviewSha256": "b01fba5d5e903aa3583d5722769d2039adb1de53a27c155ee26eced06fbd0980",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/BuilderQuest_Sledgehammer_128_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "311d997e-b8b0-491d-ac9d-176335e94e97",
+      "widthCells": 2
+    },
+    {
+      "heightCells": 4,
+      "occurrences": 16,
+      "outputPixels": {
+        "height": 1024,
+        "width": 1024
+      },
+      "sourcePreviewSha256": "27442bdbcf2fd8f9f6ace50f48e466f6abfef7a8ba5214ddbc4563d67dee2e0a",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/Minidungeon_Overworld_Entrance_256_03.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "312e8d1c-de9c-479d-861a-cace1cb480f7",
+      "widthCells": 4
+    },
+    {
+      "heightCells": 2,
+      "occurrences": 4,
+      "outputPixels": {
+        "height": 512,
+        "width": 512
+      },
+      "sourcePreviewSha256": "23498c78904fc399583d887ba39c2c14d8a8575076d93887d1122ad47898ec8d",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/BuilderQuest_Steelbridge_128_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "328be143-d67d-4b73-a15a-3df26c106f20",
+      "widthCells": 2
+    },
+    {
+      "heightCells": 2,
+      "occurrences": 4,
+      "outputPixels": {
+        "height": 512,
+        "width": 512
+      },
+      "sourcePreviewSha256": "188f334b1a9cc6170676e7225cbd6b753803a33fa5b342447e35e4726c42174f",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/MechanicStation_QuestTile_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "3ef31461-6f4e-4fb5-938d-875fb837d736",
+      "widthCells": 2
+    },
+    {
+      "heightCells": 4,
+      "occurrences": 32,
+      "outputPixels": {
+        "height": 1024,
+        "width": 1024
+      },
+      "sourcePreviewSha256": "a60bfc049d90b5bdbd441518bc810ba6b6b4dddf68ad9c7f9301305464b95659",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/Warehouse_Exterior_3Floors_256_01_NEW.tile",
+      "usedRotations": [
+        1,
+        2
+      ],
+      "uuid": "3f35b614-e5da-41b1-ad2c-2959a9ae77d6",
+      "widthCells": 4
+    },
+    {
+      "heightCells": 2,
+      "occurrences": 4,
+      "outputPixels": {
+        "height": 512,
+        "width": 512
+      },
+      "sourcePreviewSha256": "b068556c72c25c77606f40d3bbd15deb0ea98d1fd1aa1d6d03e18a402458d507",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/BunkInvestigationQuest_128_01.tile",
+      "usedRotations": [
+        3
+      ],
+      "uuid": "3ffa9284-021e-4679-8c61-6c35b04361f4",
+      "widthCells": 2
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 1,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "2f8f50ad6d08bdc3aef781bde22539bb9da2554688c4f64ca616a3eeffa70b81",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/BuilderQuest_Garden_64_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "405bb852-e090-4ee5-8a2f-24f2395d5d5f",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 4,
+      "occurrences": 16,
+      "outputPixels": {
+        "height": 1024,
+        "width": 1024
+      },
+      "sourcePreviewSha256": "a8651272cca7f0ea73b35f5c7925348479191ee03c5fadc028a0da652069db72",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/Warehouse_Exterior_2Floors_256_04_NEW.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "4283ed68-9811-4fc6-91b6-156fda5c444f",
+      "widthCells": 4
+    },
+    {
+      "heightCells": 4,
+      "occurrences": 16,
+      "outputPixels": {
+        "height": 1024,
+        "width": 1024
+      },
+      "sourcePreviewSha256": "d44b7591293312e4ddd838251be263bcf3d0074736d506470e28936221500eea",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/Warehouse_Exterior_2Floors_256_02_NEW.tile",
+      "usedRotations": [
+        3
+      ],
+      "uuid": "457232e5-8233-4dc8-8565-3433405ecd77",
+      "widthCells": 4
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 9,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "b837973ddf12567c63271f23b14295262b9b0045ec2be5e7dd4aecb3dbb0fb3d",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/OilPool_Desert_64_02.tile",
+      "usedRotations": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "uuid": "465b42d9-4db1-4b10-925b-8d517ad37edb",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 1,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "cf8ce5ffe126db20d0583849cdf698c329525ad245b3455fc3f3fc5a67493ae8",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/BuilderQuest_Sawbladearm_64_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "49b86128-327e-457c-98f5-1949bee17c3d",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 1,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "52c7ca1d97bd991d75b78e6763bec18e2a0a176f9c0568cc5dac4f3ff04dbf73",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/BuilderQuest_Beesuit_64_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "4bb32278-6e87-482d-a9e3-3476a45a194b",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 1,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "4edbb682671989b259fbb7b50fc42c0a57d4141cc0000754ef4733c753c5cb25",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/BuilderQuest_Crowbar_64_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "5c34eac0-2870-4978-8f05-7478d6e03baa",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 4,
+      "occurrences": 16,
+      "outputPixels": {
+        "height": 1024,
+        "width": 1024
+      },
+      "sourcePreviewSha256": "74b0eaa5b7e74984586ca2a634556785897502e2abc81fad364a712a9d89b8f0",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/Warehouse_Exterior_4Floors_256_Quest.tile",
+      "usedRotations": [
+        3
+      ],
+      "uuid": "5e9fa630-76fe-4693-be63-00ecd9acf201",
+      "widthCells": 4
+    },
+    {
+      "heightCells": 4,
+      "occurrences": 32,
+      "outputPixels": {
+        "height": 1024,
+        "width": 1024
+      },
+      "sourcePreviewSha256": "90020a61116dc7da95fff78b06d2f982f8eac23d05e816d39aa28300bbb15d43",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/Warehouse_Exterior_4Floors_256_01_NEW.tile",
+      "usedRotations": [
+        1
+      ],
+      "uuid": "669a9132-e9c2-4961-a6ad-869044058024",
+      "widthCells": 4
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 1,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "6a89436096fd5122e9fc9dd3940595a48d582d62b0c881ccf9a9771c065c639f",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/BuilderQuest_Totebotkey_64_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "6c57b05d-36c7-46df-ae45-7403f756199d",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 1,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "c26cfc2623692e9fa5aa05b70512cfaef95ab2cf703bc4af11acfa231ab67c16",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/BuilderQuest_Cozybed_64_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "6ddf24cb-db84-4534-81a8-a9ce81e83d84",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 4,
+      "occurrences": 16,
+      "outputPixels": {
+        "height": 1024,
+        "width": 1024
+      },
+      "sourcePreviewSha256": "8cd7e35aee55a2619a528959b2c99310eedab851f39a392afe50ba5a5ff7a90a",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/CrashedShip_256_01.tile",
+      "usedRotations": [
+        3
+      ],
+      "uuid": "7736cd40-0adf-459b-8ffc-d0fa4caa5f59",
+      "widthCells": 4
+    },
+    {
+      "heightCells": 8,
+      "occurrences": 64,
+      "outputPixels": {
+        "height": 2048,
+        "width": 2048
+      },
+      "sourcePreviewSha256": "4e5fb22af6b64a16101affcfa7ced64eb506d89b201840af3910011cfd7395ac",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/Hideout_512_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "7d7556b3-0dc7-4b95-9d92-731013b19fc0",
+      "widthCells": 8
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 12,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "7dd7de8cb89a849b2eb5626cf233348ea5d6d90048d0a7f5b5251585427a78fa",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/OilPool_Desert_64_01.tile",
+      "usedRotations": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "uuid": "84b61087-2a16-41ee-b23f-56aa4ff5d056",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 1,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "a9e34d119155afbcaa3e802c535ce0c75a11a6bab65b813426480ff976aa578a",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/BuilderQuest_Bigfan_64_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "84cce463-a967-443f-95ff-9fcdb73262b0",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 1,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "22f4553b5f02ac7849007648bbecdcdb89ffb5014cd5c257116d97c78babe440",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/BuilderQuest_Carousel_64_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "86854faa-1d4f-4f2a-bb57-877abb8dfbc3",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 4,
+      "occurrences": 16,
+      "outputPixels": {
+        "height": 1024,
+        "width": 1024
+      },
+      "sourcePreviewSha256": "be98b920c26d086751a98cac2749c9604880ec8050cf57ea817d88074e0c2e27",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/Warehouse_Exterior_2Floors_256_01_NEW.tile",
+      "usedRotations": [
+        3
+      ],
+      "uuid": "887b1866-009d-430d-923c-53f7f6e21f4c",
+      "widthCells": 4
+    },
+    {
+      "heightCells": 8,
+      "occurrences": 64,
+      "outputPixels": {
+        "height": 2048,
+        "width": 2048
+      },
+      "sourcePreviewSha256": "430c035514513c3e00025111fbb52e7b642b4b45501953487d60b6f21e35df1c",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/Minidungeon_OverworldEntrance_Water_512_01.tile",
+      "usedRotations": [
+        3
+      ],
+      "uuid": "8e1538ae-6169-4053-b9ae-d80258c6fb3b",
+      "widthCells": 8
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 1,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "80ece1b77b968deb4bceb89a36610347ffb103f6b8ab8cbbb06d0415e5819edd",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/BuilderQuest_Compass_64_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "9269286f-6bde-4d6d-ad57-3ef57c88980e",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 2,
+      "occurrences": 4,
+      "outputPixels": {
+        "height": 512,
+        "width": 512
+      },
+      "sourcePreviewSha256": "7d7d5d779f03bac0e6bdf9f1baa76a82ebd5f28b71bb8bcbe19d61c4984ab231",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/PackingStation_Fruit_128_01.tile",
+      "usedRotations": [
+        2
+      ],
+      "uuid": "9f3b2d02-a1b2-4717-99b8-83cae87bcb7c",
+      "widthCells": 2
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 1,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "37fe9430d19541eba11256b4b1bf1209189051b74b824323c1bb0d728d8d9d55",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/Ruin_Field_64_03.tile",
+      "usedRotations": [
+        1
+      ],
+      "uuid": "a372e03c-8006-44ab-a8ee-15bffec72dbe",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 2,
+      "occurrences": 4,
+      "outputPixels": {
+        "height": 512,
+        "width": 512
+      },
+      "sourcePreviewSha256": "cb708ee750d523d01e73dfde005c228b30ba3d618fe7c04dc69a846838633cdc",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/Ruin_AutumnForest_RuinsQuest_128_01.tile",
+      "usedRotations": [
+        1
+      ],
+      "uuid": "a47695ef-2028-44c7-8247-5fcad4e10bf8",
+      "widthCells": 2
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 1,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "df1e8f02d556fde2b29ca50ff44459a680b022f2ed518427957b282f64619abd",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/Ruin_AutumnForest_64_03.tile",
+      "usedRotations": [
+        3
+      ],
+      "uuid": "afe1dcc6-0894-4e95-a439-84463fc2a2e4",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 4,
+      "occurrences": 16,
+      "outputPixels": {
+        "height": 1024,
+        "width": 1024
+      },
+      "sourcePreviewSha256": "a1b51aecd40bed72e518da47a9532f6263f5e84215f1374d4a71babd72efae07",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/Minidungeon_Overworld_Entrance_256_04.tile",
+      "usedRotations": [
+        3
+      ],
+      "uuid": "b5b956c1-bab0-4bbe-abb0-e0ab8d3f1fab",
+      "widthCells": 4
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 1,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "3ca85c7917eee9d1093a6d50d45240312f183437d72830636198f51c9f63f664",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/BuilderQuest_Wochouse_64_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "bb5acabd-562f-449f-bece-5a8351c34b6e",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 3,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "6efe8fa9932fc5bd0bee143c8e68145cc1e83ec51d25b40de16c0b61f6c43894",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/Ruin_BurntForest_64_03.tile",
+      "usedRotations": [
+        1,
+        2,
+        3
+      ],
+      "uuid": "c0261f9b-a288-475a-957a-33e01e964002",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 8,
+      "occurrences": 64,
+      "outputPixels": {
+        "height": 2048,
+        "width": 2048
+      },
+      "sourcePreviewSha256": "aa3c8e8153d5d68d761d23b42a9fbf9604870570eaa56f31e72632ac8602b802",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/RuinCity_512_01_NEW.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "c1af7c32-42e8-471f-93b6-019f2c22ed10",
+      "widthCells": 8
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 5,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "fc644f08d661d944a814055b1005d40c3d19bc6c43d32c1387d2dbf408cf6142",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/Ruin_BurntForest_64_02.tile",
+      "usedRotations": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "uuid": "c3bda64c-61c7-4dec-9ae0-c6bb2b7a395d",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 1,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "56d4e6d3190d53dbd55a8950b2ce8014d3ab7b6e98df41f02b432e3a5b2552ce",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/BuilderQuest_Xylophone_64_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "c62ca228-3190-4c09-bd1a-88eb32e0695b",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 1,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "c9bd9cd454609f7070ad5280e03b1b99854936749ce3b3fcf54eeb8384836744",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/BuilderQuest_Cardboardpoop_64_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "cd2e757d-249d-49af-979c-14428b41f7ad",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 1,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "ad5598f64faaf5a69c8fd5861dcd8c74a673978e90d649f767ff8239d99aa61e",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/BuilderQuest_Popcorn_64_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "d149b9cf-de7e-4fcd-8e82-69c07214d3af",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 4,
+      "occurrences": 16,
+      "outputPixels": {
+        "height": 1024,
+        "width": 1024
+      },
+      "sourcePreviewSha256": "9676fac74bffb0a2b9dde1259f560ae48de954982e12a184f00655f7777dc81e",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/Minidungeon_Overworld_Entrance_256_07.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "d159bbf6-7b87-4073-8da7-c6cc3b85e4b5",
+      "widthCells": 4
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 1,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "e198c1b09a657f71bc831af42cdd8ef8040513a9993747cd28b3b46d63071568",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/BuilderQuest_Cornheart_64_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "d5532a26-4450-4bc7-9db9-ff370be3dee9",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 2,
+      "occurrences": 4,
+      "outputPixels": {
+        "height": 512,
+        "width": 512
+      },
+      "sourcePreviewSha256": "fc5195a30eb4fcdf9629b6d1356fb901d53294bd97003295f78a68be998d3017",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/BuilderQuest_Baguette_128_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "d92fa65f-9eda-4e95-ac60-7cd35af64abf",
+      "widthCells": 2
+    },
+    {
+      "heightCells": 2,
+      "occurrences": 4,
+      "outputPixels": {
+        "height": 512,
+        "width": 512
+      },
+      "sourcePreviewSha256": "67da6beb6c81c3e6e8fb847b02018a28a00b9adb635edd8e4c3745ae65f0099f",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/BuilderQuest_Nicehouse_128_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "da1275c8-2133-442a-b649-6961a5ddeb7f",
+      "widthCells": 2
+    },
+    {
+      "heightCells": 4,
+      "occurrences": 16,
+      "outputPixels": {
+        "height": 1024,
+        "width": 1024
+      },
+      "sourcePreviewSha256": "6a4ee0a2924a66a79be57966505c3a344036349e811fe42c62cab64f2628ba95",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/Warehouse_Exterior_2Floors_256_03_NEW.tile",
+      "usedRotations": [
+        3
+      ],
+      "uuid": "dc5c1caf-885c-4b9e-a3d7-d2578b04e633",
+      "widthCells": 4
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 3,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "567fcd31a187613516f8b0b4035832ad821e54374acf0c9aac5913c879fca313",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/Ruin_AutumnForest_64_02.tile",
+      "usedRotations": [
+        0,
+        1,
+        2
+      ],
+      "uuid": "dd8b2c81-c9c5-4314-a069-65fa9cea3024",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 2,
+      "occurrences": 4,
+      "outputPixels": {
+        "height": 512,
+        "width": 512
+      },
+      "sourcePreviewSha256": "575de532b5edf4849fd2183b57dd8ae844b2f2c64f67565b15a37f12ac0b80da",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/BuilderQuest_Catapult_128_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "e010fb27-2d28-44fb-a8e6-e9f9664850a7",
+      "widthCells": 2
+    },
+    {
+      "heightCells": 4,
+      "occurrences": 16,
+      "outputPixels": {
+        "height": 1024,
+        "width": 1024
+      },
+      "sourcePreviewSha256": "f1031150875081f6a64147ef73f5f0b105eb0cbef2e54d385416ffa73ea363d0",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/Minidungeon_Overworld_Entrance_DungeonQuest_256_01.tile",
+      "usedRotations": [
+        1
+      ],
+      "uuid": "e70e6ba1-29a3-40a4-9ec3-cc2ed60a69c9",
+      "widthCells": 4
+    },
+    {
+      "heightCells": 1,
+      "occurrences": 1,
+      "outputPixels": {
+        "height": 256,
+        "width": 256
+      },
+      "sourcePreviewSha256": "1e9e7c95d7a98e27e792006d6200bf717a1365cb6757a025f4bb722db329393b",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/BuilderQuest_ResourceCar_64_01.tile",
+      "usedRotations": [
+        3
+      ],
+      "uuid": "e732c8c9-4580-4ca9-98fd-dbb79c97a623",
+      "widthCells": 1
+    },
+    {
+      "heightCells": 2,
+      "occurrences": 4,
+      "outputPixels": {
+        "height": 512,
+        "width": 512
+      },
+      "sourcePreviewSha256": "0da21f46771e5bca7b75c993dec75648b463e55597d205b4a83a115d503b9dc4",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/questtiles/BuilderQuest_Musicbox_128_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "eb056a47-8122-4fd5-8f45-fbd96c249997",
+      "widthCells": 2
+    },
+    {
+      "heightCells": 2,
+      "occurrences": 4,
+      "outputPixels": {
+        "height": 512,
+        "width": 512
+      },
+      "sourcePreviewSha256": "1427aca37746b5b3b4e58b434c6378256ba634014638a260aa217517779ee9a0",
+      "sourceTileRelativePath": "Survival/Terrain/Tiles/poi/PackingStation_Vegetable_128_01.tile",
+      "usedRotations": [
+        0
+      ],
+      "uuid": "f3dda4db-8450-4e9d-a501-ec6dbf14a78a",
+      "widthCells": 2
+    }
+  ]
+}

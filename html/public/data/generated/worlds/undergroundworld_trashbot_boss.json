@@ -1,0 +1,184 @@
+{
+  "contentHash": "f870a86b303e983d39727574572af2e9248e86d97b63507f5cc5b3245c7b4f83",
+  "gameVersion": "1.0.0",
+  "generatedFrom": [
+    "Survival/Terrain/Worlds/undergroundworld_trashbot_boss.world"
+  ],
+  "schemaVersion": 1,
+  "world": {
+    "bounds": {
+      "maxX": 7,
+      "maxY": 7,
+      "minX": -8,
+      "minY": -8
+    },
+    "cells": [
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "67b0e8ab-59b5-4a58-8384-65de3bf5cddb",
+        "x": -3,
+        "xOffset": 0,
+        "y": -3,
+        "yOffset": 0
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "67b0e8ab-59b5-4a58-8384-65de3bf5cddb",
+        "x": -3,
+        "xOffset": 0,
+        "y": -2,
+        "yOffset": 1
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "67b0e8ab-59b5-4a58-8384-65de3bf5cddb",
+        "x": -3,
+        "xOffset": 0,
+        "y": -1,
+        "yOffset": 2
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "67b0e8ab-59b5-4a58-8384-65de3bf5cddb",
+        "x": -3,
+        "xOffset": 0,
+        "y": 0,
+        "yOffset": 3
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "67b0e8ab-59b5-4a58-8384-65de3bf5cddb",
+        "x": -2,
+        "xOffset": 1,
+        "y": -3,
+        "yOffset": 0
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "67b0e8ab-59b5-4a58-8384-65de3bf5cddb",
+        "x": -2,
+        "xOffset": 1,
+        "y": -2,
+        "yOffset": 1
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "67b0e8ab-59b5-4a58-8384-65de3bf5cddb",
+        "x": -2,
+        "xOffset": 1,
+        "y": -1,
+        "yOffset": 2
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "67b0e8ab-59b5-4a58-8384-65de3bf5cddb",
+        "x": -2,
+        "xOffset": 1,
+        "y": 0,
+        "yOffset": 3
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "67b0e8ab-59b5-4a58-8384-65de3bf5cddb",
+        "x": -1,
+        "xOffset": 2,
+        "y": -3,
+        "yOffset": 0
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "67b0e8ab-59b5-4a58-8384-65de3bf5cddb",
+        "x": -1,
+        "xOffset": 2,
+        "y": -2,
+        "yOffset": 1
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "67b0e8ab-59b5-4a58-8384-65de3bf5cddb",
+        "x": -1,
+        "xOffset": 2,
+        "y": -1,
+        "yOffset": 2
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "67b0e8ab-59b5-4a58-8384-65de3bf5cddb",
+        "x": -1,
+        "xOffset": 2,
+        "y": 0,
+        "yOffset": 3
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "67b0e8ab-59b5-4a58-8384-65de3bf5cddb",
+        "x": 0,
+        "xOffset": 3,
+        "y": -3,
+        "yOffset": 0
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "67b0e8ab-59b5-4a58-8384-65de3bf5cddb",
+        "x": 0,
+        "xOffset": 3,
+        "y": -2,
+        "yOffset": 1
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "67b0e8ab-59b5-4a58-8384-65de3bf5cddb",
+        "x": 0,
+        "xOffset": 3,
+        "y": -1,
+        "yOffset": 2
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "67b0e8ab-59b5-4a58-8384-65de3bf5cddb",
+        "x": 0,
+        "xOffset": 3,
+        "y": 0,
+        "yOffset": 3
+      }
+    ],
+    "connections": [],
+    "gameVersion": "1.0.0",
+    "id": "undergroundworld_trashbot_boss",
+    "locations": [],
+    "source": "fixed-region"
+  },
+  "zonePortals": []
+}

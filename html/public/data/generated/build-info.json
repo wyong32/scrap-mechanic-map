@@ -1,0 +1,125 @@
+{
+  "contentHash": "1e73235cb010cb4a38b5e8df56f54261c2546c2a19abed0a2b079a6327178e5d",
+  "files": [
+    {
+      "bytes": 8599,
+      "contentHash": "47d09083df406b182223058efd9f9b0046e939e6d414d3ba6e6ac4b4aaeb8e1f",
+      "name": "locations.json"
+    },
+    {
+      "bytes": 3804898,
+      "contentHash": "6dc8f4df01cb7f44a7572620bd7fcb7a4d6312e41a8f3ddfcb6467c9b1942f92",
+      "name": "reference-world.json"
+    },
+    {
+      "bytes": 8087,
+      "contentHash": "2d3f7d6e6551208c5055c1d5acd1e7bf464da4bd29e0b8e24a8b7994001ff028",
+      "name": "regions.json"
+    },
+    {
+      "bytes": 570808,
+      "contentHash": "8a39389a93feb16ddf491f8b7bd2d2bbfcd34d9b905346aa1227ade89ef4c965",
+      "name": "tile-catalog.json"
+    },
+    {
+      "bytes": 24330,
+      "contentHash": "87625d85ed743a77b4f03068639336fcb263556533a7af31bc5ac29e66f978e6",
+      "name": "worlds/growlab_01.json"
+    },
+    {
+      "bytes": 16156,
+      "contentHash": "1309c0e855781062b68a081b0d5c98072dd73b093d592f2f0a0ab64532cb3ef8",
+      "name": "worlds/growlab_02.json"
+    },
+    {
+      "bytes": 24758,
+      "contentHash": "09d62edefa9b6d781e2264e367060099e1164cbcf049b46b316dea4ef2d8cf03",
+      "name": "worlds/growlab_03.json"
+    },
+    {
+      "bytes": 24538,
+      "contentHash": "4c6d15d005e2f7c3412178812a9d3231966fda8bf00df2d0d07610fbe23adca6",
+      "name": "worlds/growlab_04.json"
+    },
+    {
+      "bytes": 24194,
+      "contentHash": "026cf5fa4436bd8a67808c62b2f478de9557b770c46a226a45b2a4d20f71027e",
+      "name": "worlds/growlab_05.json"
+    },
+    {
+      "bytes": 16777,
+      "contentHash": "7bf1a92e8752fd1766df0c1bbc28f5963a580fbd27a1126a6086d97abcca6fdb",
+      "name": "worlds/growlab_06.json"
+    },
+    {
+      "bytes": 16363,
+      "contentHash": "898565029a481139bc3d910de32ad1286016b32973b003ed83c7fe1749f79aab",
+      "name": "worlds/growlab_07.json"
+    },
+    {
+      "bytes": 59885,
+      "contentHash": "a1bedf0483336f75656f2b4e01573b6104cbd87430d40c540a4091b6ec67f528",
+      "name": "worlds/overworld_excavation_island.json"
+    },
+    {
+      "bytes": 512,
+      "contentHash": "15a023ee976ecdd41ba925a3cd816829c264f510c0801d7074a1fc323c64c4e0",
+      "name": "worlds/undergroundworld_drill_01.json"
+    },
+    {
+      "bytes": 512,
+      "contentHash": "2299d818d5305b1a46286f62bc3b223fb70e8878ba61d090248d647a6489106f",
+      "name": "worlds/undergroundworld_drill_02.json"
+    },
+    {
+      "bytes": 506,
+      "contentHash": "21386e12c28b123b183e3ffe74f3ed656bf98b21a9f760a814a098a0b54a94f6",
+      "name": "worlds/undergroundworld_empty.json"
+    },
+    {
+      "bytes": 239320,
+      "contentHash": "5f421aae3b470280d3a991dde3f73030f306a40d21354d9c14a954a175e1d63e",
+      "name": "worlds/undergroundworld_final_boss_lobby.json"
+    },
+    {
+      "bytes": 29460,
+      "contentHash": "8b113396443f586f5ab697dfc36dfff2f67fa2d242f363058b1c77a7f9fa253d",
+      "name": "worlds/undergroundworld_mininghub.json"
+    },
+    {
+      "bytes": 516,
+      "contentHash": "56df2737f95830a2a71c15d7e8a5d96634299a846547476d7960ff783e78f205",
+      "name": "worlds/undergroundworld_onboarding.json"
+    },
+    {
+      "bytes": 59850,
+      "contentHash": "1bd5dc57b9c2387c5b5d1ca69cf2b78c728025be629567ae092ffd9ba8b4a11f",
+      "name": "worlds/undergroundworld_scrapyard.json"
+    },
+    {
+      "bytes": 59986,
+      "contentHash": "92ba1b008e0ce24e5792e9aa73ed2aa7f2d3dfe7bf09ad50a03b2e26be071f29",
+      "name": "worlds/undergroundworld_station_01.json"
+    },
+    {
+      "bytes": 59850,
+      "contentHash": "35ebb37bfb620b8de94f397a35a5bae1ce54f76d3d8dc7cc31bde06d940beebe",
+      "name": "worlds/undergroundworld_station_02.json"
+    },
+    {
+      "bytes": 4230,
+      "contentHash": "f870a86b303e983d39727574572af2e9248e86d97b63507f5cc5b3245c7b4f83",
+      "name": "worlds/undergroundworld_trashbot_boss.json"
+    },
+    {
+      "bytes": 238074,
+      "contentHash": "4e80e8c2bd53418cace429cc5dfae9e9da0ac2b71250e8184a765dd85b06ef7c",
+      "name": "worlds/world_builder_excavationisland_01.json"
+    }
+  ],
+  "gameVersion": "1.0.0",
+  "generatedFrom": [
+    "html/tools/game-data/build-data.ts"
+  ],
+  "schemaVersion": 1
+}

@@ -1,0 +1,1070 @@
+{
+  "contentHash": "026cf5fa4436bd8a67808c62b2f478de9557b770c46a226a45b2a4d20f71027e",
+  "gameVersion": "1.0.0",
+  "generatedFrom": [
+    "Survival/Terrain/Worlds/growlab_05.world"
+  ],
+  "schemaVersion": 1,
+  "world": {
+    "bounds": {
+      "maxX": 7,
+      "maxY": 7,
+      "minX": -8,
+      "minY": -8
+    },
+    "cells": [
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -5,
+        "xOffset": 0,
+        "y": -5,
+        "yOffset": 0
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -5,
+        "xOffset": 0,
+        "y": -4,
+        "yOffset": 1
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -5,
+        "xOffset": 0,
+        "y": -3,
+        "yOffset": 2
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -5,
+        "xOffset": 0,
+        "y": -2,
+        "yOffset": 3
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -5,
+        "xOffset": 0,
+        "y": -1,
+        "yOffset": 4
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -5,
+        "xOffset": 0,
+        "y": 0,
+        "yOffset": 5
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -5,
+        "xOffset": 0,
+        "y": 1,
+        "yOffset": 6
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -5,
+        "xOffset": 0,
+        "y": 2,
+        "yOffset": 7
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -5,
+        "xOffset": 0,
+        "y": 3,
+        "yOffset": 8
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -5,
+        "xOffset": 0,
+        "y": 4,
+        "yOffset": 9
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -4,
+        "xOffset": 1,
+        "y": -5,
+        "yOffset": 0
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -4,
+        "xOffset": 1,
+        "y": -4,
+        "yOffset": 1
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -4,
+        "xOffset": 1,
+        "y": -3,
+        "yOffset": 2
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -4,
+        "xOffset": 1,
+        "y": -2,
+        "yOffset": 3
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -4,
+        "xOffset": 1,
+        "y": -1,
+        "yOffset": 4
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -4,
+        "xOffset": 1,
+        "y": 0,
+        "yOffset": 5
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -4,
+        "xOffset": 1,
+        "y": 1,
+        "yOffset": 6
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -4,
+        "xOffset": 1,
+        "y": 2,
+        "yOffset": 7
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -4,
+        "xOffset": 1,
+        "y": 3,
+        "yOffset": 8
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -4,
+        "xOffset": 1,
+        "y": 4,
+        "yOffset": 9
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -3,
+        "xOffset": 2,
+        "y": -5,
+        "yOffset": 0
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -3,
+        "xOffset": 2,
+        "y": -4,
+        "yOffset": 1
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -3,
+        "xOffset": 2,
+        "y": -3,
+        "yOffset": 2
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -3,
+        "xOffset": 2,
+        "y": -2,
+        "yOffset": 3
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -3,
+        "xOffset": 2,
+        "y": -1,
+        "yOffset": 4
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -3,
+        "xOffset": 2,
+        "y": 0,
+        "yOffset": 5
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -3,
+        "xOffset": 2,
+        "y": 1,
+        "yOffset": 6
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -3,
+        "xOffset": 2,
+        "y": 2,
+        "yOffset": 7
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -3,
+        "xOffset": 2,
+        "y": 3,
+        "yOffset": 8
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -3,
+        "xOffset": 2,
+        "y": 4,
+        "yOffset": 9
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -2,
+        "xOffset": 3,
+        "y": -5,
+        "yOffset": 0
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -2,
+        "xOffset": 3,
+        "y": -4,
+        "yOffset": 1
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -2,
+        "xOffset": 3,
+        "y": -3,
+        "yOffset": 2
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -2,
+        "xOffset": 3,
+        "y": -2,
+        "yOffset": 3
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -2,
+        "xOffset": 3,
+        "y": -1,
+        "yOffset": 4
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -2,
+        "xOffset": 3,
+        "y": 0,
+        "yOffset": 5
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -2,
+        "xOffset": 3,
+        "y": 1,
+        "yOffset": 6
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -2,
+        "xOffset": 3,
+        "y": 2,
+        "yOffset": 7
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -2,
+        "xOffset": 3,
+        "y": 3,
+        "yOffset": 8
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -2,
+        "xOffset": 3,
+        "y": 4,
+        "yOffset": 9
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -1,
+        "xOffset": 4,
+        "y": -5,
+        "yOffset": 0
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -1,
+        "xOffset": 4,
+        "y": -4,
+        "yOffset": 1
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -1,
+        "xOffset": 4,
+        "y": -3,
+        "yOffset": 2
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -1,
+        "xOffset": 4,
+        "y": -2,
+        "yOffset": 3
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -1,
+        "xOffset": 4,
+        "y": -1,
+        "yOffset": 4
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -1,
+        "xOffset": 4,
+        "y": 0,
+        "yOffset": 5
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -1,
+        "xOffset": 4,
+        "y": 1,
+        "yOffset": 6
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -1,
+        "xOffset": 4,
+        "y": 2,
+        "yOffset": 7
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -1,
+        "xOffset": 4,
+        "y": 3,
+        "yOffset": 8
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": -1,
+        "xOffset": 4,
+        "y": 4,
+        "yOffset": 9
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 0,
+        "xOffset": 5,
+        "y": -5,
+        "yOffset": 0
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 0,
+        "xOffset": 5,
+        "y": -4,
+        "yOffset": 1
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 0,
+        "xOffset": 5,
+        "y": -3,
+        "yOffset": 2
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 0,
+        "xOffset": 5,
+        "y": -2,
+        "yOffset": 3
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 0,
+        "xOffset": 5,
+        "y": -1,
+        "yOffset": 4
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 0,
+        "xOffset": 5,
+        "y": 0,
+        "yOffset": 5
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 0,
+        "xOffset": 5,
+        "y": 1,
+        "yOffset": 6
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 0,
+        "xOffset": 5,
+        "y": 2,
+        "yOffset": 7
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 0,
+        "xOffset": 5,
+        "y": 3,
+        "yOffset": 8
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 0,
+        "xOffset": 5,
+        "y": 4,
+        "yOffset": 9
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 1,
+        "xOffset": 6,
+        "y": -5,
+        "yOffset": 0
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 1,
+        "xOffset": 6,
+        "y": -4,
+        "yOffset": 1
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 1,
+        "xOffset": 6,
+        "y": -3,
+        "yOffset": 2
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 1,
+        "xOffset": 6,
+        "y": -2,
+        "yOffset": 3
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 1,
+        "xOffset": 6,
+        "y": -1,
+        "yOffset": 4
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 1,
+        "xOffset": 6,
+        "y": 0,
+        "yOffset": 5
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 1,
+        "xOffset": 6,
+        "y": 1,
+        "yOffset": 6
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 1,
+        "xOffset": 6,
+        "y": 2,
+        "yOffset": 7
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 1,
+        "xOffset": 6,
+        "y": 3,
+        "yOffset": 8
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 1,
+        "xOffset": 6,
+        "y": 4,
+        "yOffset": 9
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 2,
+        "xOffset": 7,
+        "y": -5,
+        "yOffset": 0
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 2,
+        "xOffset": 7,
+        "y": -4,
+        "yOffset": 1
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 2,
+        "xOffset": 7,
+        "y": -3,
+        "yOffset": 2
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 2,
+        "xOffset": 7,
+        "y": -2,
+        "yOffset": 3
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 2,
+        "xOffset": 7,
+        "y": -1,
+        "yOffset": 4
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 2,
+        "xOffset": 7,
+        "y": 0,
+        "yOffset": 5
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 2,
+        "xOffset": 7,
+        "y": 1,
+        "yOffset": 6
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 2,
+        "xOffset": 7,
+        "y": 2,
+        "yOffset": 7
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 2,
+        "xOffset": 7,
+        "y": 3,
+        "yOffset": 8
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 2,
+        "xOffset": 7,
+        "y": 4,
+        "yOffset": 9
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 3,
+        "xOffset": 8,
+        "y": -5,
+        "yOffset": 0
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 3,
+        "xOffset": 8,
+        "y": -4,
+        "yOffset": 1
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 3,
+        "xOffset": 8,
+        "y": -3,
+        "yOffset": 2
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 3,
+        "xOffset": 8,
+        "y": -2,
+        "yOffset": 3
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 3,
+        "xOffset": 8,
+        "y": -1,
+        "yOffset": 4
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 3,
+        "xOffset": 8,
+        "y": 0,
+        "yOffset": 5
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 3,
+        "xOffset": 8,
+        "y": 1,
+        "yOffset": 6
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 3,
+        "xOffset": 8,
+        "y": 2,
+        "yOffset": 7
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 3,
+        "xOffset": 8,
+        "y": 3,
+        "yOffset": 8
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 3,
+        "xOffset": 8,
+        "y": 4,
+        "yOffset": 9
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 4,
+        "xOffset": 9,
+        "y": -5,
+        "yOffset": 0
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 4,
+        "xOffset": 9,
+        "y": -4,
+        "yOffset": 1
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 4,
+        "xOffset": 9,
+        "y": -3,
+        "yOffset": 2
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 4,
+        "xOffset": 9,
+        "y": -2,
+        "yOffset": 3
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 4,
+        "xOffset": 9,
+        "y": -1,
+        "yOffset": 4
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 4,
+        "xOffset": 9,
+        "y": 0,
+        "yOffset": 5
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 4,
+        "xOffset": 9,
+        "y": 1,
+        "yOffset": 6
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 4,
+        "xOffset": 9,
+        "y": 2,
+        "yOffset": 7
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 4,
+        "xOffset": 9,
+        "y": 3,
+        "yOffset": 8
+      },
+      {
+        "flags": 0,
+        "rotation": 0,
+        "terrainType": "fixed-region",
+        "uuid": "cc129b37-1b7c-406b-bf73-ad70c67346b7",
+        "x": 4,
+        "xOffset": 9,
+        "y": 4,
+        "yOffset": 9
+      }
+    ],
+    "connections": [],
+    "gameVersion": "1.0.0",
+    "id": "growlab_05",
+    "locations": [],
+    "source": "fixed-region"
+  },
+  "zonePortals": [
+    {
+      "fromZone": 0,
+      "id": 2,
+      "toZone": 1
+    },
+    {
+      "fromZone": 2,
+      "id": 3,
+      "toZone": 1
+    },
+    {
+      "fromZone": 2,
+      "id": 6,
+      "toZone": 4
+    },
+    {
+      "fromZone": 4,
+      "id": 7,
+      "toZone": 5
+    },
+    {
+      "fromZone": 5,
+      "id": 8,
+      "toZone": 6
+    },
+    {
+      "fromZone": 6,
+      "id": 9,
+      "toZone": 7
+    },
+    {
+      "fromZone": 3,
+      "id": 11,
+      "toZone": 2
+    },
+    {
+      "fromZone": 5,
+      "id": 12,
+      "toZone": 6
+    },
+    {
+      "fromZone": 7,
+      "id": 13,
+      "toZone": 8
+    }
+  ]
+}

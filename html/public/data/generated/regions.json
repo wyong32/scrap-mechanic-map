@@ -1,0 +1,335 @@
+{
+  "contentHash": "2d3f7d6e6551208c5055c1d5acd1e7bf464da4bd29e0b8e24a8b7994001ff028",
+  "displayNames": {
+    "drilling-area-1": "Drilling Area 1",
+    "drilling-area-2": "Drilling Area 2",
+    "excavation-island": "Excavation Island",
+    "final-boss-hall": "Final Boss Hall",
+    "grow-lab-1": "Grow Lab 1",
+    "grow-lab-2": "Grow Lab 2",
+    "grow-lab-3": "Grow Lab 3",
+    "grow-lab-4": "Grow Lab 4",
+    "grow-lab-5": "Grow Lab 5",
+    "grow-lab-6": "Grow Lab 6",
+    "grow-lab-7": "Grow Lab 7",
+    "mining-hub": "Mining Hub",
+    "scrapyard": "Scrapyard",
+    "surface": "Surface World",
+    "trashbot-boss": "Trashbot Boss Area",
+    "underground-guidance": "Underground Guidance Area",
+    "underground-station-1": "Underground Station 1",
+    "underground-station-2": "Underground Station 2"
+  },
+  "gameVersion": "1.0.0",
+  "generatedFrom": [
+    "Survival/Terrain/WorldInjection/world_builder_excavationisland_01.world",
+    "Survival/Terrain/Worlds/growlab_01.world",
+    "Survival/Terrain/Worlds/growlab_02.world",
+    "Survival/Terrain/Worlds/growlab_03.world",
+    "Survival/Terrain/Worlds/growlab_04.world",
+    "Survival/Terrain/Worlds/growlab_05.world",
+    "Survival/Terrain/Worlds/growlab_06.world",
+    "Survival/Terrain/Worlds/growlab_07.world",
+    "Survival/Terrain/Worlds/overworld_excavation_island.world",
+    "Survival/Terrain/Worlds/undergroundworld_drill_01.world",
+    "Survival/Terrain/Worlds/undergroundworld_drill_02.world",
+    "Survival/Terrain/Worlds/undergroundworld_empty.world",
+    "Survival/Terrain/Worlds/undergroundworld_final_boss_lobby.world",
+    "Survival/Terrain/Worlds/undergroundworld_mininghub.world",
+    "Survival/Terrain/Worlds/undergroundworld_onboarding.world",
+    "Survival/Terrain/Worlds/undergroundworld_scrapyard.world",
+    "Survival/Terrain/Worlds/undergroundworld_station_01.world",
+    "Survival/Terrain/Worlds/undergroundworld_station_02.world",
+    "Survival/Terrain/Worlds/undergroundworld_trashbot_boss.world"
+  ],
+  "regions": [
+    {
+      "bounds": {
+        "maxX": 71,
+        "maxY": 55,
+        "minX": -72,
+        "minY": -56
+      },
+      "displayName": "Surface World",
+      "group": "surface",
+      "id": "surface",
+      "name": "surface",
+      "source": "reference"
+    },
+    {
+      "bounds": {
+        "maxX": 15,
+        "maxY": 15,
+        "minX": -16,
+        "minY": -16
+      },
+      "displayName": "Excavation Island",
+      "group": "story",
+      "id": "excavation-island",
+      "name": "excavation-island",
+      "source": "fixed-region",
+      "worldIds": [
+        "overworld_excavation_island",
+        "world_builder_excavationisland_01"
+      ]
+    },
+    {
+      "bounds": {
+        "maxX": 7,
+        "maxY": 7,
+        "minX": -8,
+        "minY": -8
+      },
+      "displayName": "Grow Lab 1",
+      "group": "grow-lab",
+      "id": "grow-lab-1",
+      "name": "grow-lab-1",
+      "source": "fixed-region",
+      "worldIds": [
+        "growlab_01"
+      ]
+    },
+    {
+      "bounds": {
+        "maxX": 3,
+        "maxY": 3,
+        "minX": -4,
+        "minY": -4
+      },
+      "displayName": "Grow Lab 2",
+      "group": "grow-lab",
+      "id": "grow-lab-2",
+      "name": "grow-lab-2",
+      "source": "fixed-region",
+      "worldIds": [
+        "growlab_02"
+      ]
+    },
+    {
+      "bounds": {
+        "maxX": 7,
+        "maxY": 7,
+        "minX": -8,
+        "minY": -8
+      },
+      "displayName": "Grow Lab 3",
+      "group": "grow-lab",
+      "id": "grow-lab-3",
+      "name": "grow-lab-3",
+      "source": "fixed-region",
+      "worldIds": [
+        "growlab_03"
+      ]
+    },
+    {
+      "bounds": {
+        "maxX": 9,
+        "maxY": 9,
+        "minX": -10,
+        "minY": -10
+      },
+      "displayName": "Grow Lab 4",
+      "group": "grow-lab",
+      "id": "grow-lab-4",
+      "name": "grow-lab-4",
+      "source": "fixed-region",
+      "worldIds": [
+        "growlab_04"
+      ]
+    },
+    {
+      "bounds": {
+        "maxX": 7,
+        "maxY": 7,
+        "minX": -8,
+        "minY": -8
+      },
+      "displayName": "Grow Lab 5",
+      "group": "grow-lab",
+      "id": "grow-lab-5",
+      "name": "grow-lab-5",
+      "source": "fixed-region",
+      "worldIds": [
+        "growlab_05"
+      ]
+    },
+    {
+      "bounds": {
+        "maxX": 3,
+        "maxY": 3,
+        "minX": -4,
+        "minY": -4
+      },
+      "displayName": "Grow Lab 6",
+      "group": "grow-lab",
+      "id": "grow-lab-6",
+      "name": "grow-lab-6",
+      "source": "fixed-region",
+      "worldIds": [
+        "growlab_06"
+      ]
+    },
+    {
+      "bounds": {
+        "maxX": 3,
+        "maxY": 3,
+        "minX": -4,
+        "minY": -4
+      },
+      "displayName": "Grow Lab 7",
+      "group": "grow-lab",
+      "id": "grow-lab-7",
+      "name": "grow-lab-7",
+      "source": "fixed-region",
+      "worldIds": [
+        "growlab_07"
+      ]
+    },
+    {
+      "bounds": {
+        "maxX": 15,
+        "maxY": 15,
+        "minX": -16,
+        "minY": -16
+      },
+      "displayName": "Mining Hub",
+      "group": "underground",
+      "id": "mining-hub",
+      "name": "mining-hub",
+      "source": "fixed-region",
+      "worldIds": [
+        "undergroundworld_mininghub"
+      ]
+    },
+    {
+      "bounds": {
+        "maxX": 11,
+        "maxY": 11,
+        "minX": -12,
+        "minY": -12
+      },
+      "displayName": "Scrapyard",
+      "group": "surface",
+      "id": "scrapyard",
+      "name": "scrapyard",
+      "source": "fixed-region",
+      "worldIds": [
+        "undergroundworld_scrapyard"
+      ]
+    },
+    {
+      "bounds": {
+        "maxX": 9,
+        "maxY": 9,
+        "minX": -10,
+        "minY": -10
+      },
+      "displayName": "Underground Station 1",
+      "group": "underground",
+      "id": "underground-station-1",
+      "name": "underground-station-1",
+      "source": "fixed-region",
+      "worldIds": [
+        "undergroundworld_station_01"
+      ]
+    },
+    {
+      "bounds": {
+        "maxX": 9,
+        "maxY": 9,
+        "minX": -10,
+        "minY": -10
+      },
+      "displayName": "Underground Station 2",
+      "group": "underground",
+      "id": "underground-station-2",
+      "name": "underground-station-2",
+      "source": "fixed-region",
+      "worldIds": [
+        "undergroundworld_station_02"
+      ]
+    },
+    {
+      "bounds": {
+        "maxX": 31,
+        "maxY": 31,
+        "minX": -32,
+        "minY": -32
+      },
+      "displayName": "Final Boss Hall",
+      "group": "boss",
+      "id": "final-boss-hall",
+      "name": "final-boss-hall",
+      "source": "fixed-region",
+      "worldIds": [
+        "undergroundworld_final_boss_lobby"
+      ]
+    },
+    {
+      "bounds": {
+        "maxX": 7,
+        "maxY": 7,
+        "minX": -8,
+        "minY": -8
+      },
+      "displayName": "Trashbot Boss Area",
+      "group": "boss",
+      "id": "trashbot-boss",
+      "name": "trashbot-boss",
+      "source": "fixed-region",
+      "worldIds": [
+        "undergroundworld_trashbot_boss"
+      ]
+    },
+    {
+      "bounds": {
+        "maxX": 0,
+        "maxY": 0,
+        "minX": -1,
+        "minY": -1
+      },
+      "displayName": "Drilling Area 1",
+      "group": "underground",
+      "id": "drilling-area-1",
+      "name": "drilling-area-1",
+      "source": "fixed-region",
+      "worldIds": [
+        "undergroundworld_drill_01"
+      ]
+    },
+    {
+      "bounds": {
+        "maxX": 0,
+        "maxY": 0,
+        "minX": -1,
+        "minY": -1
+      },
+      "displayName": "Drilling Area 2",
+      "group": "underground",
+      "id": "drilling-area-2",
+      "name": "drilling-area-2",
+      "source": "fixed-region",
+      "worldIds": [
+        "undergroundworld_drill_02"
+      ]
+    },
+    {
+      "bounds": {
+        "maxX": 0,
+        "maxY": 0,
+        "minX": -1,
+        "minY": -1
+      },
+      "displayName": "Underground Guidance Area",
+      "group": "underground",
+      "id": "underground-guidance",
+      "name": "underground-guidance",
+      "source": "fixed-region",
+      "worldIds": [
+        "undergroundworld_onboarding",
+        "undergroundworld_empty"
+      ]
+    }
+  ],
+  "schemaVersion": 1
+}

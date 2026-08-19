@@ -54,8 +54,11 @@ textarea:focus-visible,
     "header header header" var(--topbar-height)
     "locations map details" minmax(0, 1fr)
     / 280px minmax(0, 1fr) 320px;
+  height: 100vh;
+  height: 100dvh;
   min-height: 100vh;
   min-height: 100dvh;
+  overflow: hidden;
   isolation: isolate;
   background: var(--metal-950);
 }
@@ -282,6 +285,9 @@ textarea:focus-visible,
 
 .location-panel {
   grid-area: locations;
+  overflow-x: hidden;
+  overflow-y: auto;
+  scrollbar-gutter: stable;
   border-right: 1px solid var(--panel-border);
 }
 

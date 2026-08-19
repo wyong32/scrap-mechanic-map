@@ -232,3 +232,30 @@ test("default production release is a useful lightweight base map", async ({
   expect(snapshot.inFlight).toEqual([]);
   network.stop();
 });
+
+test("keeps the location browser inside the viewport and independently scrollable", async ({
+  page
+}) => {
+  await page.setViewportSize({ width: 1280, height: 500 });
+  await page.goto("/?region=surface&z=-3&x=0&y=0");
+
+  const panel = page.locator("#location-panel");
+  await expect(panel).toBeVisible();
+
+  const before = await panel.evaluate((element) => {
+    const rect = element.getBoundingClientRect();
+    return {
+      bottom: rect.bottom,
+      clientHeight: element.clientHeight,
+      scrollHeight: element.scrollHeight,
+      viewportHeight: window.innerHeight
+    };
+  });
+
+  expect(before.bottom).toBeLessThanOrEqual(before.viewportHeight);
+  expect(before.scrollHeight).toBeGreaterThan(before.clientHeight);
+
+  await panel.evaluate((element) => element.scrollTo({ top: element.scrollHeight }));
+  await expect.poll(() => panel.evaluate((element) => element.scrollTop))
+    .toBeGreaterThan(0);
+});
